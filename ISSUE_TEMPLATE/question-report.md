@@ -6,7 +6,9 @@ answers within them! -->
 
 john@example.com <!-- Replace with your email. We might use this to give rewards 😉 -->
 
-## Category of the report
+## Problematic section
+
+<!-- Section of the question which there is an issue. -->
 
 - [ ] Question Description
 - [ ] Question Skeleton
