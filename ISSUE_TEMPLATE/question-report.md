@@ -15,7 +15,8 @@ john@example.com <!-- Replace with your email. We might use this to give rewards
 
 ## Type of question
 
-- [ ] Coding
+- [ ] JavaScript
+- [ ] User Interface
 - [ ] System Design
 - [ ] Quiz
 
